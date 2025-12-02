@@ -1,4 +1,4 @@
-DHKD: Dual-Heterogeneous Knowledge Distillation Networks for Unsupervised Anomaly Detection
+Beyond Feature Mapping: Dual-Heterogeneous Knowledge Distillation with Mamba for Industrial Anomaly Detection
 ## Mvtec LOCO Dataset
 
 Download dataset:
